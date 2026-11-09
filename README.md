@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![CI/CD Status](https://github.com/iamAyushSaxena/ML-Restaurant-Recommendations/actions/workflows/ci.yml/badge.svg)
+![CI/CD Status](https://github.com/iamayushsaxena/ML-Restaurant-Recommendations/actions/workflows/ci.yml/badge.svg)
 [![Python](https://img.shields.io/badge/Python-3.13+-blue.svg)](https://www.python.org/downloads/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.31+-red.svg)](https://streamlit.io/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
@@ -14,7 +14,7 @@
 
 **An end-to-end machine learning recommendation system designed to reduce decision fatigue on food delivery platforms by 40%**
 
-**💻[Live Demo](https://ayush-saxena-ml-restaurant-recommendations.streamlit.app)** | **📓 [Documentation](https://github.com/iamAyushSaxena/ML-Restaurant-Recommendations/tree/main/docs)** | **📝 [Full PRD](prd/restaurant_recommendations_prd.md)** | **🐞 [Report Bug](https://github.com/iamAyushSaxena/ML-Restaurant-Recommendations/issues)**
+**💻[Live Demo](https://ayush-saxena-ml-restaurant-recommendations.streamlit.app)** | **📓 [Documentation](https://github.com/iamayushsaxena/ML-Restaurant-Recommendations/tree/main/docs)** | **📝 [Full PRD](prd/restaurant_recommendations_prd.md)** | **🐞 [Report Bug](https://github.com/iamayushsaxena/ML-Restaurant-Recommendations/issues)**
 
 <!-- Live Demo Badge -->
 ▶️ **Try the Live Demo:** [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ayush-saxena-ml-restaurant-recommendations.streamlit.app)
@@ -29,15 +29,15 @@
 
 ### Personalized Recommendations with Explanations
 
-<img src="https://raw.githubusercontent.com/iamAyushSaxena/ML-Restaurant-Recommendations/main/outputs/figures/demo-screenshot.png" alt="Demo Screenshot" width="800"/>
+<img src="https://raw.githubusercontent.com/iamayushsaxena/ML-Restaurant-Recommendations/main/outputs/figures/demo-screenshot.png" alt="Demo Screenshot" width="800"/>
 
 ### Interactive Dashboard
 
-<img src="https://raw.githubusercontent.com/iamAyushSaxena/ML-Restaurant-Recommendations/main/outputs/figures/dashboard-screenshot.png" alt="Dashboard" width="800"/>
+<img src="https://raw.githubusercontent.com/iamayushsaxena/ML-Restaurant-Recommendations/main/outputs/figures/dashboard-screenshot.png" alt="Dashboard" width="800"/>
 
 ### Cold Start Onboarding Flow
 
-<img src="https://raw.githubusercontent.com/iamAyushSaxena/ML-Restaurant-Recommendations/main/outputs/figures/cold-start-screenshot.png" alt="Cold Start" width="800"/>
+<img src="https://raw.githubusercontent.com/iamayushsaxena/ML-Restaurant-Recommendations/main/outputs/figures/cold-start-screenshot.png" alt="Cold Start" width="800"/>
 
 </div>
 
@@ -222,7 +222,7 @@ ml-restaurant-recommendations/
 
 **Step 1: Clone the repository**
 ```bash
-git clone https://github.com/iamAyushSaxena/ML-Restaurant-Recommendations.git
+git clone https://github.com/iamayushsaxena/ML-Restaurant-Recommendations.git
 cd ml-restaurant-recommendations
 ```
 
@@ -495,8 +495,8 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 **👤Author:** Ayush Saxena
 
-- 🔗 **LinkedIn:** [Ayush Saxena](https://www.linkedin.com/in/ayushsaxena8880/)
-- 🐙 **GitHub:** [iamAyushSaxena](https://github.com/iamAyushSaxena)
+- 🔗 **LinkedIn:** [Ayush Saxena](https://www.linkedin.com/in/iamayushsaxena/)
+- 🐙 **GitHub:** [iamayushsaxena](https://github.com/iamayushsaxena)
 - 📧 **Email:** aysaxena8880@gmail.com
 
 ---
@@ -521,9 +521,9 @@ If you found this project helpful or impressive, please consider:
 
 **⭐ Star this repository if you found it valuable!**
 
-**💬 Questions? [Open an issue](https://github.com/iamAyushSaxena/ML-Restaurant-Recommendations/issues)**
+**💬 Questions? [Open an issue](https://github.com/iamayushsaxena/ML-Restaurant-Recommendations/issues)**
 
-**🤝 Feedback? [Start a discussion](https://github.com/iamAyushSaxena/ML-Restaurant-Recommendations/discussions)**
+**🤝 Feedback? [Start a discussion](https://github.com/iamayushsaxena/ML-Restaurant-Recommendations/discussions)**
 
 ---
 
